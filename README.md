@@ -15,3 +15,8 @@ To use the frontend:
 
 
 Note: Project was published to Azure together with the frontend, but the frontend was deployed with bugs.
+
+Participants:
+Antonio Jankoski 128824
+Nikola Jovanoski 128687
+Mario Bojarovski 128484
