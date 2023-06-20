@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xUpkroEnG0ZPiL3/N49bnpT8ywS2VdvbOTNOTyG1YrkF3yd4oPU3rVY3QXmK7zQc42iwS7DelTmdgDmu7AlQQ==",
+  "dgSpecHash": "j5vTGirO/SSea1mIzJ9fkrKF58Kgw8lWmQy1sJAuMe/i7FZc9/E5iRhhDqtXKysIFI5sxOxQw0k+qIAK2SLBGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\38975\\EmployeeManagementSystem\\SOAProject\\SOAProject.csproj",
+  "projectFilePath": "C:\\Users\\38975\\Desktop\\SOAProjectFinal\\SOAProject\\SOAProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38975\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\38975\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

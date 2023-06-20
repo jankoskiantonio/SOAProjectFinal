@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FugivZN93CWp7WnNkL23tKsWDfr/G0+/gUdg4vbf9fQ2BSyOBUHlgbyQ1LdMBUyxoaY7JLArST9HUoDdIPtwfw==",
+  "dgSpecHash": "Gy6BcNU/L6On163+VXPD5bzfOlaXIrnYpEzpP8IUruMFdx14b5ysxqZooIlZBZvJwGTRz2t0NvpouhmSzICpdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\38975\\EmployeeManagementSystem\\EmployeeManagementSystemTest\\EmployeeManagementSystemTest.csproj",
+  "projectFilePath": "C:\\Users\\38975\\Desktop\\SOAProjectFinal\\EmployeeManagementSystemTest\\EmployeeManagementSystemTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38975\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\38975\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

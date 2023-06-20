@@ -7040,11 +7040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38975\\EmployeeManagementSystem\\SOAProject\\SOAProject.csproj",
+      "projectUniqueName": "C:\\Users\\38975\\Desktop\\SOAProjectFinal\\SOAProject\\SOAProject.csproj",
       "projectName": "SOAProject",
-      "projectPath": "C:\\Users\\38975\\EmployeeManagementSystem\\SOAProject\\SOAProject.csproj",
+      "projectPath": "C:\\Users\\38975\\Desktop\\SOAProjectFinal\\SOAProject\\SOAProject.csproj",
       "packagesPath": "C:\\Users\\38975\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38975\\EmployeeManagementSystem\\SOAProject\\obj\\",
+      "outputPath": "C:\\Users\\38975\\Desktop\\SOAProjectFinal\\SOAProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
