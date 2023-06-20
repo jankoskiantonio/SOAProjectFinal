@@ -12,3 +12,6 @@ To enable the backend:
 To use the frontend:
 
 1. In the frontweb folder, open a terminal and run `npm install`, then `npm run serve`
+
+
+Note: Project was published to Azure together with the frontend, but the frontend was deployed with bugs.
